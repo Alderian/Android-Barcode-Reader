@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\alderian\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Workspaces\workspace-my-stock-app\Android-Barcode-Reader\app\build\intermediates\pre-dexed\debug\core-3.2.1-844220b3ef630a3b0932d17984fe2a0748b372ce.jar" />
+    </item>
+
+</items>

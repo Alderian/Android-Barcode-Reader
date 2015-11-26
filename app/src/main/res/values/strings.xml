@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BarcodeReader</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+
+	<string name="source">android-barcode-reader</string>
+</resources>
